@@ -1,4 +1,4 @@
 # demo
 Git repo demo yt
 <br>
-Author - Harshita Kamani
+Author - Harshita Kamani (PES University)
